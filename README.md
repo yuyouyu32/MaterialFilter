@@ -1,6 +1,6 @@
-# MaterialFilter With LLMs (Fully automated, efficient processes)
+# Automated Material Screening and Evaluation Pipeline (AMSEP))
 
-***Paper title: From Adversarial Embedding to Large Language Model Screening: A Dual-Strategy for Inverse Design of High Entropy Alloys***
+***Paper title: From Small Data Modeling to Large Language Model Screening: A Dual-Strategy Framework for Materials Intelligent Design***
 ***Part: Using GPT4 to screen pre-designed material components***
 
 ![GPT Filter](./imgs/GPT.png)
@@ -14,6 +14,8 @@
 1. **Knowledge Synthesis**: Based on the knowledge acquired in step 2, utilize GPT-4 to synthesize rules for selecting components.
 
 2. **Scoring and Experimental Validation**: Apply the synthesized knowledge to score 362 design outcomes individually. Proceed to experimentally validate the design with the highest score.
+
+![GPT Filter](./imgs/workflow.png)
 
 ### Data Initial Screening
 
